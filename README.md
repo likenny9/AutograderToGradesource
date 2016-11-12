@@ -1,17 +1,16 @@
 # Autograder to Gradesource Uploader
 
 #### REQUIREMENTS
-***
 `Python 3.x`
 
-#### DETAILS
 ***
+#### DETAILS
 This python script allows for the automated upload of scores from UCSD Autograder into Gradesource.  It is specifically made for CSE 3 to copy scores of students who completed 0, 1, or 2 of the weekly assignments (LAB/HW).
 
 In the future, I plan to expand the script to read scores from csv files and upload them to Gradesource.
 
-#### USAGE
 ***
+#### USAGE
 To run the script, enter this in your terminal.
 ```
 python3 RecordScores.py
